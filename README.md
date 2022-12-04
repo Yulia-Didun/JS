@@ -1,4 +1,4 @@
-# JavaScript code examples.
+# JavaScript code examples
 
 Номери пунктів відповідають іменам каталогів.
 
